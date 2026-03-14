@@ -26,8 +26,22 @@ mejorando la eficiencia operativa de la empresa. Esto permitirá asignar eficien
 los recursos agrícolas y brindar una atención oportuna y precisa a los cultivos en
 función de su estado de salud y necesidades específicas. 
 
-1) Modelado del problema.
-  a) Explique cómo modelaría el problema y las métricas que usaría. Comente
+  ```
+a) Explique cómo modelaría el problema y las métricas que usaría. Comente
     al menos una métrica de negocio y una de ML.
   b) ¿Cómo evaluaría dichas métricas de la solución? ¿Contra qué las
     compararía?
+```
+
+## Caso 2:
+ModaFlash es una empresa de e-commerce especializada en moda rápida que vende ropa y accesorios exclusivamente online. Su catálogo cambia cada dos semanas, y los productos se publican con imágenes de modelos y descripciones básicas escritas por el equipo de marketing.
+ModaFlash quiere desarrollar un sistema de ML que automatice dos tareas claves:
+
+- $\textbf{Clasificación automática de productos por tipo y estilo}$ (camisa formal, vestido casual, zapatilla deportiva, etc.) a partir de las imágenes.
+- $\textbf{Predicción de devolución de compra.}$ Combinando imagen, descripción, historial de compras y de devoluciones del usuario y metadata (talle, precio, color, etc.).
+
+```
+a) Qué tipo de problemas de ML implican estas dos tareas? Qué tipo de output tendría cada una?
+b) Proponga al menos una métrica de negocio y una métrica de ML para cada tarea.
+
+```
