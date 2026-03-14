@@ -1,6 +1,6 @@
 # Práctico 1
 
-Tras leer detenidamente cada caso de estudio, responda las preguntas.
+Tras leer detenidamente cada caso de estudio, responda las preguntas. Agrege un nuevo Commit con los cambios.
 
 ## Caso 1:
 
