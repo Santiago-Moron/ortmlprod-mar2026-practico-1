@@ -1,14 +1,8 @@
-# Práctico 1
-
-En este práctico se abordarán los conceptos básicos de Docker y se realizará un ejercicio práctico para descargar y trabajar con imágenes de Docker.
-
-- Manejo de control de versiones con Git (repaso)
-- Gestión de dependencias en Python (repaso)
-- Fundamentos de Docker y contenedores (repaso)
-- Ejemplo simple de descarga de imágenes de Docker
-
+# Guía Git y Docker
+Guía para el uso de Git y Docker
 
 ## Índice de Contenidos
+
 
 1. [Creación de un Repositorio en GitHub](#1-creación-de-un-repositorio-en-github)
    
