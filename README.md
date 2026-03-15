@@ -51,6 +51,6 @@ FishScan es una empresa dedicada a identificar la especie de peces que se captur
 
 ```
 a) Qué tipo de problemas de ML implican esta tarea?
-b) Proponga al menos una métrica de negocio y una métrica de ML para cada tarea.
+b) Proponga al menos una métrica de negocio y una métrica de ML.
 
 ```
