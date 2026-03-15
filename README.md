@@ -45,3 +45,12 @@ a) Qué tipo de problemas de ML implican estas dos tareas? Qué tipo de output t
 b) Proponga al menos una métrica de negocio y una métrica de ML para cada tarea.
 
 ```
+
+## Caso 3:
+FishScan es una empresa dedicada a identificar la especie de peces que se capturan en barcos pesqueros. Para eso, los barcos contienen cámaras enfocadas hacia la zona de descarga de las redes de pesca, para que a través de las imágenes y metadata como la hora y la ubicación del barco, un sistema automatizado detecte qué especies se pescó. De esta manera se ahorra dinero y energía de las personas encargadas en la tarea manual de clasificación de pesca.
+
+```
+a) Qué tipo de problemas de ML implican esta tarea?
+b) Proponga al menos una métrica de negocio y una métrica de ML para cada tarea.
+
+```
